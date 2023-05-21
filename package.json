@@ -1,0 +1,15 @@
+{
+  "name": "release-the-pod-bay-doors",
+  "version": "1.0.0",
+  "description": "read from .csv",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brandon herford",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.8.4"
+  },
+  "type": "module"
+}
