@@ -1,0 +1,26 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  grid-gap: 1em;
+  background-color: #fff;
+  color: #444;
+}
+
+.box {
+  overflow-wrap: anywhere;
+  border: 1px solid #000;
+  color: #fff;
+  border-radius: 1em;
+  padding: 2em;
+  height: 12rem;
+
+
+}
+
+.box:hover {
+background-color: yellow;
+}
+
+a {
+  color: #000;
+}
